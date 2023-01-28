@@ -23,13 +23,11 @@ body {
   right: 30%;
 }
 
-
-
-
 button {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-weight: bold;
+  background: #fff;
 }
 
 /* Navigation Bar */
@@ -145,6 +143,34 @@ h3 {
   padding: 3% 2%;
 }
 
+
+#cta {
+  padding: 4% 15% 0 15%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.cta-text {
+  line-height: 4rem;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+#footer {
+  padding: 2%;
+  text-align: center;
+}
+
+.footer-text {
+  color: #8f8f8f;
+}
+
+.footer-button {
+  padding: 10px;
+  border: 0px;
+}
+
 @media (max-width: 991px) {
 
 #title {
@@ -157,7 +183,8 @@ h3 {
   }
 
   .download-button{
-    margin: 5% 3% 5%;
+    margin-left: 3%;
   }
 
 }
+
