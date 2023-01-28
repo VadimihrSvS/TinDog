@@ -145,20 +145,20 @@ h3 {
 
 
 #cta {
-  padding: 4% 15% 0 15%;
+  padding: 7% 15%;
   text-align: center;
   background-color: #ff4c68;
   color: #fff;
 }
 
 .cta-text {
-  line-height: 4rem;
+  line-height: 1.5;
   font-size: 3rem;
   font-weight: bold;
 }
 
 #footer {
-  padding: 2%;
+  padding: 7% 15%;
   text-align: center;
 }
 
@@ -167,8 +167,7 @@ h3 {
 }
 
 .footer-button {
-  padding: 10px;
-  border: 0px;
+  padding: 20px 10px;
 }
 
 @media (max-width: 991px) {
@@ -187,3 +186,4 @@ h3 {
   }
 
 }
+
