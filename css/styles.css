@@ -23,22 +23,7 @@ body {
   right: 30%;
 }
 
-@media (max-width: 991px) {
 
-#title {
-  text-align: center;
-}
-
-  .main-dog {
-    position: static;
-    transform: rotate(0);
-  }
-
-  .download-button{
-    margin: 5% 3% 5%;
-  }
-
-}
 
 
 button {
@@ -158,4 +143,21 @@ h3 {
 
 .pricing-column {
   padding: 3% 2%;
+}
+
+@media (max-width: 991px) {
+
+#title {
+  text-align: center;
+}
+
+  .main-dog {
+    position: static;
+    transform: rotate(0);
+  }
+
+  .download-button{
+    margin: 5% 3% 5%;
+  }
+
 }
